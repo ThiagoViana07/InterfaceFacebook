@@ -1,3 +1,5 @@
+Interface semelhante com a do Facebook utilizando React. As informações contidas na interface são estáticas e não precisam refletir nenhuma API REST ou back-end
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
